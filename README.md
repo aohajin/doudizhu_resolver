@@ -1,4 +1,5 @@
 # 斗地主明牌残局解答工具
+[![PyPI Version](https://img.shields.io/badge/PyPI-0.1.5-orange.svg)](https://pypi.org/project/doudizhu-resolver/)
 
 基于Larry He先生提供的斗地主引擎的一个玩具残局解答工具
 
