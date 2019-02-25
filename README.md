@@ -1,7 +1,7 @@
 # 斗地主明牌残局解答工具
 [![PyPI Version](https://img.shields.io/badge/PyPI-0.1.5-orange.svg)](https://pypi.org/project/doudizhu-resolver/)
 
-基于Larry He先生提供的斗地主引擎的一个玩具残局解答工具
+基于Larry He先生提供的[斗地主引擎](https://github.com/onestraw/doudizhu)的一个玩具残局解答工具
 
 写这个的原因纯粹是在虎扑看了个帖子然后觉得有趣
 
