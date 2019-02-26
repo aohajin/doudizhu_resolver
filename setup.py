@@ -11,13 +11,13 @@ with open('LICENSE', encoding='utf-8') as f:
 
 setup(
     name='doudizhu_resolver',
-    version='0.1.1',
+    version='0.1.2',
     description='doudizhu puzzle resolver',
     long_description=readme,
     url='https://github.com/aohajin/doudizhu_resolver',
     author='aohajin',
     author_email='maohaijian@xiimoon.com',
-    packages=['doudizhu_resolver'],
+    packages=['doudizhu_resolver', 'doudizhu_resolver.doudizhu'],
     data_files=[("", ["LICENSE"])],
     license=license,
     classifiers=[
