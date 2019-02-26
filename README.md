@@ -41,7 +41,7 @@
 ## Quickstart
 ### Installing
 
-`pip install doudizhu_resolver`
+`pip install doudizhu-resolver`
 
 ### 虎扑上给的经典对局demo
 - 先手方手牌'2h-Qd-Qh-10d-10h-7d-7h-5d-5h-3h'
